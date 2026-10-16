@@ -1,0 +1,15 @@
+# 忽略私密設定檔 (千萬不能上傳)
+config.json
+.env
+
+# 忽略 Python 快取與虛擬環境
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# 忽略編輯器暫存
+.vscode/
+.idea/
+.DS_Store

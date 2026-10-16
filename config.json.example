@@ -1,0 +1,7 @@
+{
+    "OPENAI_API_KEY": "your_openai_key_here",
+    "DASHSCOPE_API_KEY": "your_dashscope_key_here",
+    "LTX_API_KEY": "your_ltx_key_here",
+    "METRONIX_API_KEY": "your_metronix_key_here",
+    "DEFAULT_TIMEOUT": 30
+}
