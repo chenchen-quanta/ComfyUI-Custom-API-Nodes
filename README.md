@@ -6,4 +6,5 @@
 下載或克隆本專案至 `ComfyUI/custom_nodes/` 目錄：
 ```
    cd ComfyUI/custom_nodes/
-   git clone <你的 GitHub 倉庫網址>
+   git clone https://github.com/chenchen-quanta/ComfyUI-Custom-API-Nodes.git
+```
